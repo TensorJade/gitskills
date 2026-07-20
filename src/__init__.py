@@ -1,0 +1,1 @@
+"""Predictive maintenance demo package."""
